@@ -1,0 +1,17 @@
+{
+  "name": "test_coding",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".prettierrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettify": "prettier --write *.js **/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.1",
+    "prettier": "^3.0.0"
+  }
+}
